@@ -1,1 +1,1 @@
-console.log('Inside Branch 2')
+console.log('Content updated into branch2 from branch1')
